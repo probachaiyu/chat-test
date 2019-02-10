@@ -14,3 +14,5 @@ init.vim
 .vimrc
 
 *.log
+.idea
+idea/
